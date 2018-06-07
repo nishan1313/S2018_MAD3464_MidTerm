@@ -9,10 +9,6 @@ package com.moxdroidlabs.c0738115_mads3464_midterm;
  *
  * @author moxdroid
  */
-public class Main {
-    public static void main(String args[])
-    {
-        LambtonStringUtil lst = new LambtonStringUtil();
-        lst.reverse("Lambton");
-    }
+class ambtonStringUtil {
+    
 }
